@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="b9437562-2146-4895-b449-d84b5842c3cd.jpeg" alt="Banner de Adriel Ramírez" width="100%">
+</p>
+
 ## 👋 ¡Hola! Soy Adriel — Ingeniero Biomédico & Desarrollador Full Stack 🔬💻
 
 Soy un apasionado **Ingeniero Biomédico** con una fuerte inclinación por el **desarrollo de soluciones tecnológicas avanzadas**. Me dedico a crear herramientas que mejoran la productividad, optimizan procesos y abren nuevas posibilidades tanto en el ámbito médico como en el empresarial.
@@ -17,13 +21,3 @@ Soy un apasionado **Ingeniero Biomédico** con una fuerte inclinación por el **
 
 ### 🌟 Filosofía de trabajo
 Creo en el poder de la **tecnología aplicada con propósito**. Cada línea de código que escribo busca mejorar vidas, facilitar tareas y resolver problemas del mundo real. La ingeniería es mi lenguaje, y la innovación es mi impulso.
-
----
-
-📫 **¿Quieres trabajar conmigo o desarrollar un proyecto increíble?**  
-¡Estoy abierto a colaboraciones, startups, investigación y más!  
-Puedes escribirme directamente por GitHub o conectar conmigo a través de [tu enlace de contacto preferido].
-
----
-
-> *"No se trata solo de construir tecnología. Se trata de crear soluciones que realmente importan."* 💡
