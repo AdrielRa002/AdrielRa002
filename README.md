@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="b9437562-2146-4895-b449-d84b5842c3cd.jpeg" alt="Banner de Adriel Ramírez" width="100%">
+  <img src="WhatsApp Image 2025-07-08 at 3.42.42 PM.jpeg" alt="Banner de Adriel Ramírez" width="100%">
 </p>
 
 ## 👋 ¡Hola! Soy Adriel — Ingeniero Biomédico & Desarrollador Full Stack 🔬💻
